@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDetails>
+  <mobiles>
+<productName> Apple </productName>
+<qty>10</qty>
+<price>45000</price>
+<orderID>98765432</orderID>
+  <deliveryAddress>
+	<streetName>BharathiyarStreet</streetName>
+	<city>Chennai</city>
+	<district>chennai</district>
+	<state>Tamil Nadu</state>
+	<country>India</country>
+	</deliveryAddress>
+       <contactDetails>
+			<emailID>abced@gmail.com</emailID>
+			<phone>9094509010</phone>
+		</contactDetails>	
+		</mobiles>
+		
+		<mobiles>
+<productName> htc </productName>
+<qty>10</qty>
+<price>45000</price>
+<orderID>98765432</orderID>
+  <deliveryAddress>
+	<streetName>BharathiyarStreet</streetName>
+	<city>Chennai</city>
+	<district>chennai</district>
+	<state>Tamil Nadu</state>
+	<country>India</country></deliveryAddress>
+       <contactDetails>
+			<emailID>abced@gmail.com</emailID>
+			<phone>9094509010</phone>
+		</contactDetails>	
+		</mobiles>
+		
+		<mobiles>
+<productName> MI </productName>
+<qty>10</qty>
+<price>45000</price>
+<orderID>98765432</orderID>
+  <deliveryAddress>
+	<streetName>BharathiyarStreet</streetName>
+	<city>Chennai</city>
+	<district>chennai</district>
+	<state>Tamil Nadu</state>
+	<country>India</country></deliveryAddress>
+       <contactDetails>
+			<emailID>abced@gmail.com</emailID>
+			<phone>9094509010</phone>
+		</contactDetails>	
+		</mobiles>
+		
+</productDetails>
